@@ -1,7 +1,7 @@
 # Juego del tic-tac-toe ⭕ ❌
 
 ![](screenshot.png)
-
+pitopitopitopitopitopitopitopitopitopitopitopitopitopitopitopitopitopitopitopitopitopitopitopitop
 ## Objetivo
 El objetivo del ejercicio es conseguir realizar un juego completo del 3 en rayas, en su forma más simple.
 Para ello, a partir del esqueleto proporcionado, será necesario implementar el resto de funcionalidad necesaria para hacer el juego.
